@@ -18,7 +18,7 @@ PalindromicGen is a configurable tool<sup>[1]</sup>. If you plan to execute Pali
 - Try to shutdown the screen output by setting up <i>outputscreen=0</i> flag.
 - If you are processing very large numbers (which have more than 500 digits) try to close other applications in current operating system session.
 
-<sup>[1]</sup>: <i>All the PalindromicGen configuration settings are available in [palindromicgen.ini](https://github.com/dilshan/PalindromicGen/blob/master/palindromicgen.ini) file.</i>
+<sup>[1]</sup>: <i>Check [palindromicgen.ini](https://github.com/dilshan/PalindromicGen/blob/master/palindromicgen.ini) file for all configuration settings.</i>
 
 Sample Data
 -----------
