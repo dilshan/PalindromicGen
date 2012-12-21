@@ -10,6 +10,16 @@ This tool is developed using [Free Pascal](http://www.freepascal.org) compiler a
 
 Under the theoretical limits this application can manipulate 2<sup>31</sup> digit numbers and at the development phase we test this system with maximum of 501 digits (to obtain the palindromic number of [1186060307891929990](http://www.jasondoucette.com/pal/1186060307891929990)).
 
+Usage Instructions
+------------------
+
+PalindromicGen is a configurable tool<sup>[1]</sup>. If you plan to execute PalindromicGen for large series of base number with higher iteration count please try to stick with following guidelines:
+- Try to divide base numbers into some small groups (e.g: 50 numbers, 100 numbers, etc.) and process them in each execution cycle. 
+- Try to shutdown the screen output by setting up outputscreen=0 flag.
+- If you are processing very large numbers (which have more than 500 digits) try to close other applications in current operating system session.
+
+<sup>[1]</sup>: <i>All the PalindromicGen configuration settings are available in palindromicgen.ini file.</i>
+
 Sample Data
 -----------
 
