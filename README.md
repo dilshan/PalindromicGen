@@ -13,8 +13,8 @@ Under the theoretical limits this application can manipulate 2<sup>31</sup> digi
 Sample Data
 -----------
 
-- first_10000_num_10000_lim.ods: formatted OpenOffice Calc spreadsheet with 10 to 1000 base numbers and their Palindromic numbers (<i>if available</i>).
-- output_261iter.csv: CSV file with 1186060307891929950 to 1186060307891929999 base numbers and their Palindromic numbers (<i>if available</i>).
+- <b>first_10000_num_10000_lim.ods</b>: formatted OpenOffice Calc spreadsheet with 10 to 1000 base numbers and their Palindromic numbers (<i>if available</i>).
+- <b>output_261iter.csv</b>: CSV file with 1186060307891929950 to 1186060307891929999 base numbers and their Palindromic numbers (<i>if available</i>).
 
 Both these sample files are available in [/samples](https://github.com/dilshan/PalindromicGen/tree/master/samples) directory in PalindromicGen GitHub repository.
 
