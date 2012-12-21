@@ -15,7 +15,7 @@ Usage Instructions
 
 PalindromicGen is a configurable tool<sup>[1]</sup>. If you plan to execute PalindromicGen for large series of base number with higher iteration count please try to stick with following guidelines:
 - Try to divide base numbers into some small groups (e.g: 50 numbers, 100 numbers, etc.) and process them in each execution cycle. 
-- Try to shutdown the screen output by setting up outputscreen=0 flag.
+- Try to shutdown the screen output by setting up <i>outputscreen=0</i> flag.
 - If you are processing very large numbers (which have more than 500 digits) try to close other applications in current operating system session.
 
 <sup>[1]</sup>: <i>All the PalindromicGen configuration settings are available in palindromicgen.ini file.</i>
