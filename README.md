@@ -8,7 +8,7 @@ PalindromicGen is a lightweight configurable tool to perform <i>reverse-and-add<
 
 This tool is developed using [Free Pascal](http://www.freepascal.org) compiler and its design to work with many platforms with minor adjustments. We test this tool in several Windows and Linux distributions. PalindromicGen is design to work with Pentium 4 (or compatible) instruction sets (under the default compiler configuration) and its performance is heavily depends on its settings and system configuration.
 
-Under the theoretical limits this application can manipulate 2<sup>31</sup> digit numbers and at the development phase we test this system with maximum of 501 digits (to obtain the palindromic number of [1186060307891929990](http://www.jasondoucette.com/pal/1186060307891929990)).
+Under the theoretical limits this application can manipulate up to 2<sup>31</sup> digit numbers and at the development phase we test this system with maximum of 501 digits (to obtain the palindromic number of [1186060307891929990](http://www.jasondoucette.com/pal/1186060307891929990)).
 
 Usage Instructions
 ------------------
