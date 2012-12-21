@@ -7,5 +7,5 @@ This tool is developed using [Free Pascal](http://www.freepascal.org) compiler a
 
 Under the theoretical limits this application can manipulate 2<sup>31</sup> digit numbers and at the development phase we test this system with maximum of 501 digits (to obtain the palindromic number of [1186060307891929990](http://www.jasondoucette.com/pal/1186060307891929990)).
 
-PalindromicGen is an open source software project and it is release under the terms of [MIT License](https://github.com/dilshan/PalindromicGen/blob/master/LICENSE.md).
+PalindromicGen is an open source software project and it is release under the terms of [MIT License](http://opensource.org/licenses/MIT).
 
