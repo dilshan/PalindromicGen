@@ -4,7 +4,7 @@ PalindromicGen
 Introduction
 ------------
 
-PalindromicGen is a lightweight configurable tool to perform <i>reverse-and-add</i> operations to obtain Palindromic numbers. The main purpose of this application is to examine the existence of [Lychrel numbers](http://mathworld.wolfram.com/196-Algorithm.html) in a series of natural numbers.
+PalindromicGen is a lightweight configurable tool to perform <i>reverse-and-add</i> operations to obtain [Palindromic numbers](http://mathworld.wolfram.com/PalindromicNumber.html). The main purpose of this application is to examine the existence of [Lychrel numbers](http://mathworld.wolfram.com/196-Algorithm.html) in a series of natural numbers.
 
 This tool is developed using [Free Pascal](http://www.freepascal.org) compiler and its design to work with many platforms with minor adjustments. We test this tool in several Windows and Linux distributions. PalindromicGen is design to work with Pentium 4 (or compatible) instruction sets (under the default compiler configuration) and its performance is heavily depends on its settings and system configuration.
 
@@ -27,6 +27,11 @@ Sample Data
 - <b>output_261iter.csv</b>: CSV file with 1186060307891929950 to 1186060307891929999 base numbers and their Palindromic numbers (<i>if available</i>).
 
 Both these sample files are available in [/samples](https://github.com/dilshan/PalindromicGen/tree/master/samples) directory in PalindromicGen GitHub repository.
+
+PalindromicGen Download
+-----------------------
+
+The compiled binaries of PalindromicGen for <i>Linux</i> and <i>Windows</i> are available to download at [elect.wikispaces.com](http://elect.wikispaces.com/Downloads). 
 
 Project License
 ---------------
